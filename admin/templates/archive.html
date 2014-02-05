@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="style2012a.css" />
+    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
+    <title>Walter Higgins: [% print $page->{title}; %]</title>
+  </head>
+  <body>
+	 <header>
+		<a href="/blog">
+		  <h1>Walter Higgins</h1>
+		  <h2>Tinkering with Software &amp; the Web</h2>
+		</a>
+	 </header>
+	 <div class="nav"><a href="index.html">Home</a> // <a href="atom.xml">Subscribe</a></div>
+	 <ul class="archive">
+        [% foreach my $year (reverse sort keys %{$page->{years}}) {	%]
+		<li>
+		  <h2>[% print $year; %]</h2>
+		  <ul>
+		     [% foreach my $month (reverse sort keys %{$page->{years}->{$year}}){ %]
+			 <li>
+				<h3>[% print $page->{monthnames}->[int($month)-1]; %]</h3>
+				<table width="100%"> 
+				[% foreach my $post (@{$page->{years}->{$year}->{$month}}) { %]
+				<tr>
+				  <td valign="top"><a href="[% print $post->{url}; %]">[% print $post->{title}; %]</a></td>
+				  <td valign="top" align="right">[% foreach (@{$post->{categories}}){ %]<a href="cat-index-[%print $_;%]">[%print $_;%]</a>, [% } %]</td>
+				</tr>
+				[% } # end post %]
+				</table>
+			 </li>
+			 [% } # end month %]
+		  </ul>
+		</li>
+		[% } #end year%]
+	 </ul> 
+	 <div class="nav"><a href="index">Home</a> // <a href="atom.xml">Subscribe</a></div>
+  </body>
+[%! include "templates/analytics.html"; %]
+</html>

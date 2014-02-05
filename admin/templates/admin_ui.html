@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <link rel="stylesheet" type="text/css" href="admin2012a.css" />
+	 </head>
+  <body>
+  <div class="toolbar">
+  <button onclick="document.location='new_post.html'">New Post</button>
+  <button onclick="document.location='makefile.pl'">Update Site</button>
+  </div>
+
+[% if ($error){ %]<h1 style="color:red;">ERROR! [% print $error; %]</h1>[% } %]
+
+<h2>Files</h2>
+<table><tr><td valign="top">
+<table class="postlist">
+<tr><th>Style Sheets</th><th></th></tr>
+[% foreach (glob ("../*.css")){ %]
+<tr>
+  <td><a href="index.pl?action=edit_file&filename=[% print $_;%]">[% print $_; %]</a></td>
+  <td><a href="index.pl?action=delete_file&filename=[% print $_;%]" onclick="return confirm('are you sure you want to delete [%print $_;%] ?');">X</a></td>
+[% } %]
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="postlist">
+<tr><th>Templates</th><th></th></tr>
+[% 
+ foreach ("./templates/page.html",
+		  "./templates/index.html",
+		  "./templates/archive.html",
+		  "./templates/atom.xml"
+		  )
+ { 
+%]
+<tr>
+    <td><a href="index.pl?action=edit_file&filename=[% print $_;%]">[% print $_; %]</a></td>
+    <td><a href="index.pl?action=delete_file&filename=[% print $_;%]" onclick="return confirm('are you sure you want to delete [%print $_;%] ?');">X</a></td>
+</tr>
+[% } %]
+</table>
+</td></tr></table>
+
+<h2>Blog Posts</h2>
+</table>
+  <table class="postlist">
+  <tr>
+  <th>#</th>
+  <th>date</th>
+  <th></th>
+  <th>title</th>
+  <th></th>
+  </tr>
+[%  
+  my $end = $#posts_info+1;
+  foreach (@posts_info)
+  {  
+      my $fname = $_->{filename};
+%]
+<tr>
+<td>[% print $end--;%]</td>
+<td>[% print $_->{date}; %]</td>
+<td><a href="../[% print $_->{html}; %]">View</a></td>
+<td><a href="index.pl?action=edit_post&post=[% print $fname; %]">[% print $_->{title}; %]</a></td>
+<td><a href="index.pl?action=delete&post=[% print $fname; %]" onclick="return confirm('are you sure you want to delete [%print $_->{filename};%] ?');">X</a></td>
+</tr>
+[% } %] 
+</table>
+   </body>
+</html>

@@ -1,0 +1,18 @@
+<!-- partial generated at [% print scalar(localtime()) ; %]-->
+[%
+my @date = split (' ',$json->{'created_at'});
+%]
+<blockquote class="twitter">
+  <table>
+    <tr>
+	   <td colspan="2"><p>[% print $tweet->{expanded}; %]</p></td>
+	 </tr>
+	 <tr class="tweetinfo">
+      <td valign="top" width="64"><a href="http://twitter.com/[% print $json->{user}->{screen_name}; %]"><img src="[% print $tweet->{avatar}; %]"/></a></td>
+      <td valign="top" align="left">
+        <div class="twitterer">[% print $json->{'user'}->{'name'}; %] (<a href="http://twitter.com/[% print $json->{user}->{screen_name}; %]">@[% print $json->{user}->{screen_name}; %]</a>)</div>
+        <div class="tweetlink"><a href="https://twitter.com/[% print $json->{user}->{screen_name}; %]/status/[% print $json->{id_str};%]">[% print "$date[0] $date[1] $date[2] $date[5]"; %]</div>
+       </td>
+     </tr>
+  </table>
+</blockquote>             

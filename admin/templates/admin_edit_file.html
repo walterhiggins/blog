@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<link rel="stylesheet" type="text/css" href="admin2012a.css" />
+  </head>
+  <body>
+<h1>[%print $filename; %]</h1>
+	 <form action="index.pl" method="post" target="_top" enctype="multipart/form-data">
+		  <input type="submit"  value="Save"/>
+		  <input type="button" name="Cancel" value="Cancel" onclick="window.location='index.pl'" />
+		  <input type="hidden" name="action" value="edit_file" />
+		  <input type="hidden" name="filename" value="[% print $filename;%]" />
+		  <table>
+		  <tr>
+		  <td valign="top">
+		  <textarea id="text" name="text" rows="30" cols="100">[% print $contents; %]</textarea>
+	      </td>
+			 </tr>
+		</table>
+	 </form>
+  </body>
+</html>

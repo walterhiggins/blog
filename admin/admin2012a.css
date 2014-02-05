@@ -1,0 +1,22 @@
+textarea { 
+  border: 1px solid #ccc;
+  padding: 4px;
+  font-size: 12px;
+  font-family: "Bitstream Vera Sans Mono", Monaco, "Courier New";
+  background: black;
+  color: yellow;
+}
+div.toolbar>button {
+	background: silver;
+	border-width: 3px;
+	color: blue;
+	padding: 4px;
+}
+
+table.postlist {
+	background: white;
+}
+table.postlist  { 
+   font-family: Arial;
+}
+table.postlist td { border-bottom: 1px solid silver; } 

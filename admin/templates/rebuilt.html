@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+[% if ( $#rebuilt == 0 ) { %]
+<frameset rows="40,*">
+  <frame src="index.pl?action=edit_post&post=../[% print $rebuilt[0]->{changed}; %]" />
+  <frame src="[% print $rebuilt[0]->{target}; %]" />
+</frameset>
+[% } else { %]
+  <body>
+  The following files were rebuilt...
+  <ul>
+  [% foreach (@rebuilt) { 
+     if ( ref $_ eq "" ) {
+  %]
+  <li><a href="[%print $_;%]">[% print $_; %]</a></li>
+  [% } %]
+ [% } %]
+  </ul>
+  </body>
+
+[% } %]
+</html>

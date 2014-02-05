@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="admin2012a.css" />
+	 <script type="text/javascript" src="../markdown_tools.js"></script>
+  </head>
+  <body>
+	 <form action="index.pl" method="post" target="_top" enctype="multipart/form-data">
+		 <button onclick="markdown_indent_selection('text');return false;">Indent</button>
+		 <button onclick="markdown_quote_selection('text');return false;">Quote</button>
+		 <button onclick="fill_region('text');return false;">Fill Region</button>
+		<input type="submit"  value="Save"/>
+        <input type="hidden" name="action" value="new_post" />
+		<input type="hidden" name="filename" value="[% print $post;%]" />
+        Preview: <input type="checkbox" name="preview" checked="true" />
+		<table>
+		  <tr>
+			 <td valign="top">
+				<textarea id="text" name="text" rows="30" cols="100">[% print $contents; %]</textarea>
+				<ol>
+				  <li><input type="file" name="file1" size="40"/></li>
+				  <li><input type="file" name="file2" size="40"/></li>
+				  <li><input type="file" name="file3" size="40"/></li>
+				  <li><input type="file" name="file4" size="40"/></li>
+				  <li><input type="file" name="file5" size="40"/></li>
+				  <li><input type="file" name="file6" size="40"/></li>
+				  <li><input type="file" name="file7" size="40"/></li>
+				  <li><input type="file" name="file8" size="40"/></li>
+				</ol>
+			 </td>
+			 <td valign="top">
+				<h3>Syntax Cheatsheet</h3>
+				<h4>Phrase Emphasis</h4>
+				*italic* **bold** _italic_ __bold__
+				<h4>Links</h4>
+				An [example](http://url.com "Title") or An [example][1]<br/>
+				[1]: http://url.com "Title" (titles are optional)
+				<h4>Youtube videos</h4>
+				[alt text](http://youtu.be/$VIDEO_ID)
+				<h4>Twitter pulls</h4>
+				> [text](http[s]://twitter.com/#!/...)
+				<h4>Images</h4>
+				![alt text](/path/to/img.jpg "Title") or ![alt	text][1]<br/>
+				[1]: /path/to/img.jpg "Title" (titles are optional)
+				<h4>Lists</h4>
+				1. foo<br/>
+				2. bar<br/>
+				<h4>horizontal rules</h4>
+				---
+				<h4>Line breaks</h4>
+				end a line with 2 or more spaces.
+			 </td>
+			 </tr>
+		</table>
+	 </form>
+  </body>
+</html>

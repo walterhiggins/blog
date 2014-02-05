@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+[%  
+sub pg { my ($attr) = @_; print $page->{$attr}; } 
+my @stylesheets = ('style2012a.css'); #,'default.css','hacker.css');
+my $stylesheet = $stylesheets[int(rand($#stylesheets + 1))];
+%]
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="[% print $stylesheet; %]" />
+    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
+    <title>[%pg 'title';%]</title>
+  </head>
+  <body>
+  <div class="page">[%pg 'text';%]</div>
+<footer>
+  <p class="content">
+	 You have been reading <b>[%pg 'title';%]</b>, part of the personal weblog of Walter Higgins. 
+	 You can Share this on Twitter, Browse the Front Page & Archvies or subscribe to the blog. 
+	 You can reach me
+	 at <a href="mailto:walter.higgins@gmail.com?subject=[%pg
+	 'title';%]">walter.higgins@gmail.com</a> or
+	 on <a href="http://twitter.com/walter">twitter</a>.
+  </p>
+  <ul class="sidebar">
+	 <li><a title="Share this story on Twitter" target="_blank" href="https://twitter.com/share?url=http://walterhiggins.net/blog/[%pg 'url';%]&via=walter&text=[%pg 'title';%]">Share this story on Twitter</a></li>
+	 <li><a href="atom.xml">Subscribe to this blog</a></li>
+	 <li><a href="index">View the Front Page</a></li>
+	 <li><a href="archive">Browse the Archives</a></li>
+	 <li><a href="Colophon">About this Weblog</a></li>
+	 <!--<li><a href="[%print $page->{sources}->[2];%]">Plain Text Version</a></li>-->
+  </ul>
+  <div style="clear:both;"></div>
+</footer>
+<script type="text/javascript">
+window.onload = function() { 
+  var h2s = document.getElementsByTagName('h2');
+  for (var i = 0;i < h2s.length; i++){
+    if (h2s[i].className == 'timestamp'){
+       h2s[i].innerHTML = new Date(h2s[i].innerHTML).toDateString();
+    }
+  }
+}
+</script>
+[%!# include "templates/facebook-comments.html"; %]
+[%!# include "templates/disqus.html"; %]
+  </body>
+[%!# include "templates/analytics.html"; %]  
+</html>
