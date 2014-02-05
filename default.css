@@ -1,0 +1,107 @@
+/* ------------------------------------------------- */
+/* default.css - A default stylesheet for your blog  */
+/* Provides sensible defaults which you can change   */
+/* Walter Higgins, April 3, 2012                     */
+/* ------------------------------------------------- */
+/* 
+/* Properties common to all elements - e.g. font-family */
+* { font-family: Georgia, Serif; }
+
+/* ----------------- */
+/* standard elements */
+/* ----------------- */
+body { 
+	 max-width: 700px;
+
+	 /* center the page */
+	 margin-left: auto;  
+	 margin-right: auto;
+}
+p, td, li {
+	 font-size: 16px;
+	 line-height: 1.5em;
+}
+a { 
+}
+h1 { 
+}
+h2 { 
+}
+blockquote { 
+	 border-left: 4px solid silver;
+	 padding-left: 60px;
+	 margin: 0px;
+	 font-style: italic;
+}
+pre { 
+	 border-left: 4px solid silver;
+	 padding-left: 8px;
+}
+code {
+	 font-family: "Courier New";
+}
+header { 
+}
+footer {
+	 border-top: 4px solid silver;
+}
+li>a {
+	 display: block;
+}
+
+/* --------------------- */
+/* blog-specific classes */
+/* --------------------- */
+
+/* div.nav appears at top and bottom of index page */
+div.nav {
+  border-top: 1px solid black;
+  padding: 8px;
+  margin: 0px;
+}
+div.nav a {
+}
+/* div.post only appears on index page */
+div.post {
+}
+/* div.post is used on individual blog post page */
+div.page { 
+}
+h1.title { 
+}
+h2.timestamp { 
+}
+h2.categories {
+}
+.content {
+    float: left;
+    width: 60%;
+}
+.sidebar { 
+    float: right;
+    width: 35%;
+}
+ul.sidebar { 
+	 margin-left: 0px;
+	 padding-left: 0px;
+	 list-style-type: none;
+}
+/* -------------- */
+/* Twitter tweets */
+/* -------------- */
+blockquote.twitter {
+}
+blockquote.twitter td { 
+}
+/* the paragraph which contains tweet text */
+blockquote.twitter td p { 
+	 margin: 0px;
+}
+div.twitterer { 
+}
+div.twitterer a {
+}
+div.tweetlink {
+}
+div.twitterer a {
+}

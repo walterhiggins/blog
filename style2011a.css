@@ -1,0 +1,91 @@
+body { 
+    font-family: Arial, Georgia, Serif; 
+    margin: 0%; 
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ol, ul, p, ul.archive a, td { 
+    line-height: 150%; 
+    font-size: 16px; 
+}
+pre { 
+    border-left: 4px solid #c0c0c0; 
+    padding: 8px
+}
+blockquote { 
+    background: #ffffe6 url(images/quote_e0.png) 4px 4px no-repeat;
+    font-style: italic;
+    padding: 4px 32px 4px 72px;
+    margin: 0px;
+    border-left: 4px solid silver;
+}
+blockquote>blockquote {
+    background: #eaeaed;
+    padding: 0px 32px 0px 32px;
+    margin: 0px;
+    border-left: 2px solid silver;
+}
+header { 
+    display: block; 
+    padding: 20px;
+    border-bottom: 8px solid #a3cca3; 
+    padding-left: 120px; 
+    background: #f0f0f8 url(images/flickricon2009alpha120.png) center left no-repeat;
+}
+div.nav { 
+    background: #f4f4f4; 
+    padding: 8px; 
+    text-align: right; 
+}
+h1 { margin: 0px;}
+h1  { font-family: Arial; }
+h1>a { text-decoration: none; }
+ul.archive li h2 { 
+    background: #f0f0f0; 
+    padding: 8px; 
+}
+ul.archive { list-style-type: none; padding: 0px; }
+td img, p img { 
+    background: white; 
+    border: 1px solid #ccc; 
+    padding: 8px; 
+    margin: 0px 8px;
+}
+td { 
+    border-bottom: 1px dashed #eee; 
+}
+td a { 
+    text-decoration: none; 
+}
+/* twitter quotes */
+blockquote.twitter { 
+    background: url(images/tweet.png) bottom right no-repeat;
+    width: 70%;
+    padding-left: 4px;
+	 margin-left: 72px;
+	 border: 24px solid #eaeaff;
+}
+blockquote.twitter h3 { 
+    margin: 0px; 
+    padding-bottom: 4px;
+}
+blockquote.twitter td { border: none;}
+footer { 
+    background-color: #e9e0e9; 
+    border-top: 3px solid black;
+    padding: 8px;
+}
+footer ol {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+footer ol li {
+   border-bottom: 1px solid #ccc;
+}
+footer td { 
+	 width: 60%; 
+	 padding: 8px;
+}
+div.post { border-bottom: 1px solid silver;}

@@ -1,0 +1,110 @@
+/* ------------------------------------------------- */
+/* hacker.css - A lime-on-black stylesheet           */
+/* Walter Higgins, April 3, 2012                     */
+/* ------------------------------------------------- */
+/* 
+/* Properties common to all elements - e.g. font-family */
+* { 
+	 font-family: "Liberation Mono", "Bitstream Vera Sans Mono","Courier New","Monaco"; 
+}
+
+/* ----------------- */
+/* standard elements */
+/* ----------------- */
+body { 
+	 max-width: 600px;
+	 background: black;
+	 color: lime;
+}
+p, td, li {
+	 font-size: 12px;
+	 line-height: 1.5em;
+}
+a { 
+	 color: yellow;
+}
+h1 { 
+}
+h2 { 
+}
+blockquote { 
+	 border-left: 4px solid lime;
+	 padding-left: 60px;
+	 margin: 0px;
+	 font-style: italic;
+}
+pre { 
+	 border-left: 4px solid lime;
+	 padding-left: 8px;
+}
+code {
+}
+header { 
+}
+footer {
+	 border-top: 4px solid lime;
+}
+/* --------------------- */
+/* blog-specific classes */
+/* --------------------- */
+
+/* div.nav appears at top and bottom of index page */
+div.nav {
+	 padding: 8px;
+	 margin: 0px;
+	 background: lime;
+	 border-bottom-left-radius: 10px;
+	 border-bottom-right-radius: 10px;
+	 border-top-left-radius: 10px;
+	 border-top-right-radius: 10px;
+
+}
+div.nav a {
+	 color: black;
+}
+/* div.post only appears on index page */
+div.post {
+}
+/* div.post is used on individual blog post page */
+div.page { 
+}
+h1.title { 
+}
+h2.timestamp { 
+}
+h2.categories {
+}
+
+.content {
+    float: left;
+    width: 60%;
+}
+.sidebar { 
+    float: right;
+    width: 35%;
+}
+ul.sidebar {
+	 margin-left: 0px;
+	 padding-left: 0px;
+	 list-style-type: none;
+	 
+}
+/* -------------- */
+/* Twitter tweets */
+/* -------------- */
+blockquote.twitter {
+}
+blockquote.twitter td { 
+}
+/* the paragraph which contains tweet text */
+blockquote.twitter td p { 
+	 margin: 0px;
+}
+div.twitterer { 
+}
+div.twitterer a {
+}
+div.tweetlink {
+}
+div.twitterer a {
+}

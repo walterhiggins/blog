@@ -1,0 +1,28 @@
+# Gateway
+## 2010/07/30 03:02:00 
+
+<div class="posterous_bookmarklet_entry">
+<blockquote class="posterous_long_quote">
+<div class="hentry u-codinghorror share status">
+<span class="status-body"><span class="entry-content">"in the 80s being a geek meant knowing lots about science and engineering; now it means building your identity around videogames and anime"</span> <span class="meta entry-meta"> <a href="http://twitter.com/codinghorror/status/19846796417" class="entry-date" rel="bookmark"> <span class="published timestamp">about 14 hours ago</span></a> <span>via web</span> </span> <span class="meta entry-meta retweet-meta"> <span class="shared-content">Retweeted by 100+ people</span> </span> </span> 
+<ul class="actions-hover">
+<li> <span class="reply"> <a href="http://twitter.com/?status=@codinghorror&amp;in_reply_to_status_id=19846796417&amp;in_reply_to=codinghorror" title="reply to codinghorror">Reply</a> </span> </li>
+<li> <span class="retweet-link"> <a href="http://twitter.com/codinghorror/status/19846796417#" title="Retweet">Retweet</a> </span> </li>
+</ul>
+<ul class="meta-data clearfix">
+</ul>
+</div>
+<div class="user-info clear">
+<div class="thumb"><a href="http://twitter.com/codinghorror" class="tweet-url profile-pic"><img src="http://a2.twimg.com/profile_images/58911850/coding-horror-gravatar-128_bigger.png" border="0" height="73" alt="" style="vertical-align: middle;" width="73" /></a></div>
+<div><a href="http://twitter.com/codinghorror" class="tweet-url screen-name" title="Jeff Atwood">codinghorror</a></div>
+<div class="full-name">Jeff Atwood</div>
+</div>
+</blockquote>
+<div class="posterous_quote_citation">via <a href="http://twitter.com/codinghorror/status/19846796417">twitter.com</a>
+</div>
+<p>This reminded me of my own checkered geek past. <br />In the mid 80's you could find me with two gaming buddies (two brothers from Coolock - Aaron and Gordon O'brien - who went by the monikers 'Aero' and 'Gobbo' *)  in the gaming arcades on lower O'connell street and bachelor's walk, spending what little money I had on Gauntlet, Out Run, Double Dragon and R-Type. My recollections of this time are by no means misty-eyed. It was a pretty seedy scene. The gaming arcades were dark, smelly and sticky of carpet. They were also hunting grounds for dirty old men (the word 'paedophile' wasn't part of everyday vernacular). <br />I spent a lot of time and money playing games in those arcades. <a href="http://en.wikipedia.org/wiki/Gauntlet_%28arcade_game%29">"Elf shot the food"</a>. Eventually I decided to get a home computer so I could play at home. It was a financial decision - pay a lot of money up-front for a home computer but save money in the long run. I had no intention of learning to program computers. Honest. <br />I realize now that playing arcade games was a gateway drug. Pretty soon I got a home computer. Within weeks I was handing over £50 punts (A lot of money for a 16-yr old in 1987) for Dev-Pac and scavenging for Z80 assembly language books in the inner-city libraries and 2nd hand book stores. <br />I spent less time with Aero and Gobbo in the arcades and we soon lost touch. I was playing computer games at home now - Jet-Pac, Panama-Joe, Sidewize. I began to get programming-curious. How did the games work? How did they program 'Gravity' into the Jet-pac game? How did the computer know when the little Jet-pack guy hit an asteroid? I began to read up on collision detection, sprites and animation. I wrote my first rudimentary arcade game (a space invaders clone of course) in Basic. As you can imagine, it was awful but it gave me a taste for programming. Pretty soon I realised ZX-Basic wasn't going to satisfy me and I moved on to Z80 Assembly. I wrote a program (in Basic of course) to 'Assemble' z80 op-codes. It was pretty simple and error-prone - it would take a string like 'RET' and turn it into the number 201, it also handled op-codes which had 1-byte and 1-word operands. There are a lot of Z80 op-codes and I never bothered supporting the more esoteric ones. The self-programmed assembler allowed me to enter short rudimentary assembly language programs and execute them.  <br />By now I was truly hooked. My next big spend was on <a href="http://www.worldofspectrum.org/infoseek.cgi?regexp=%5EHiSoft+Devpac%24&amp;pub=%5EHiSoft%24&amp;model=spectrum">Dev-Pac</a> - a professional Assembler/Disassembler program for the ZX-Spectrum. It cost me £50 punts and was buggy as hell but it was worth every penny. By now I spent all of my free-time either programming or thinking about programming. I would spend lunch-time at school writing code on paper which I later tried out when I got home. <br />I still remember the feeling of giddy delight when I found out you could 'study' programming at <a href="http://courses.itsligo.ie/business-humanities-courses/computing/bsc-computing-in-software-development-sg-136/">college </a>and that you could go on to do it as a 'career'. Up to that point I had always wanted to be a writer/journalist but now it seemed pretty clear what I would like to do with the rest of my life. <br />So yes it's easy to sneer at self-professed geeks whose only claim to geek-dom is playing computer games. Too easy perhaps. Just remember kids - playing computer games is a gateway drug, next thing you know you'll be trying to write them. Then possibly considering a career in software engineering.</p>
+<p>* If you grew up in Dublin in the 80's and didn't have a short name you were just plain weird.</p>
+</div>
+
+## Categories
+gaming, personal, zx spectrum, 

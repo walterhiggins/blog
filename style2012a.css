@@ -1,0 +1,145 @@
+body { 
+    font-family: Courier, Georgia, Serif; 
+    margin: 0%; 
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ol, ul, p, ul.archive a, td{ 
+    line-height: 150%; 
+    font-size: 18px; 
+}
+pre { 
+    border-left: 4px solid #c0c0c0; 
+    padding: 8px
+}
+p, pre { 
+   line-height: 180%;
+}
+code { 
+     font-size: 14px;
+}
+blockquote { 
+    background: url(images/quote_e0.png) 4px 4px no-repeat;
+    font-style: italic;
+    padding: 0px 32px 0px 72px;
+    margin: 0px;
+    border-left: 4px solid silver;
+}
+blockquote>blockquote {
+    padding: 0px 32px 0px 32px;
+    margin: 0px;
+    border-left: 2px solid silver;
+}
+header { 
+    display: block; 
+    border-bottom: 1px solid black; 
+    padding-left: 70px; 
+    background: url(images/flickricon2009alpha60.png) center left no-repeat;
+}
+header>h2, header a { 
+      text-decoration: none; 
+}
+
+div.nav { 
+    padding: 8px; 
+    text-align: right;
+    border-top: 5px solid black; 
+    
+}
+
+h1 { margin: 0px; }
+h2  {  margin: 4px 0px;}
+h1>a { text-decoration: none; }
+ul.archive li h2 { 
+    padding: 8px; 
+}
+ul.archive { list-style-type: none; padding: 0px; }
+
+.content {
+    float: left;
+    width: 60%;
+}
+.sidebar { 
+    float: right;
+    width: 35%;
+}
+ul.sidebar {
+	 margin-left: 0px;
+	 padding-left: 0px;
+	 list-style-type: none;
+	 
+}
+
+/*
+ * Tables 
+ */
+td img, p img { 
+    border: 1px solid #ccc; 
+    padding: 8px; 
+    margin: 0px 8px;
+}
+td { border-bottom: 1px dashed #eee; }
+td a { text-decoration: none; }
+/* twitter quotes */
+blockquote.twitter { 
+    background: url(images/tweet.png) bottom right no-repeat;
+    width: 70%;
+    padding-left: 4px;
+	 margin-left: 72px;
+	 border: 24px solid #eaeaff;
+}
+blockquote.twitter p{ 
+    margin: 0px; 
+    padding:0px;
+}
+tr.tweetinfo { 
+    font-style: normal;
+    font-weight: bold;
+}
+div.twitterer{ 
+    font-size: 120%;
+}
+
+blockquote.twitter td { border: none;}
+blockquote.twitter img { 
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
+tr.tweetinfo { 
+	 font-style: normal;
+}
+
+/*
+ * Footer
+ */
+footer { 
+    border-top: 5px solid black;
+    padding: 8px;
+
+}
+footer ol {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+footer ol li {
+   border-bottom: 1px solid #ccc;
+}
+footer td { 
+	 width: 60%; 
+	 padding: 8px;
+	 border: none;
+}
+footer * { font-size: 16px; }
+div.post { border-bottom: 1px solid silver;}
+
+.page h1.title { 
+    text-align: center; 
+    margin: 40px 0px;
+ 
+}
+.page h2.timestamp {
+  font-size: 110%;
+}
