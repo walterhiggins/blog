@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	 <script type="text/javascript" src="/blog/markdown_tools.js"></script>
+  </head>
+  <body>
+	 <h1>Markdown Textarea Example</h1>
+		<p>This is a simple no-frills textarea with some buttons to
+		perform common Markdown operations. I'm a developer so the
+		ability to post snippets of code is really
+		important. Blockquotes are the building blocks of blogging. I've
+		helpfully provided some text to play with. If you want to see
+		what the text will look like in HTML then select it and copy it
+		to <a href="http://daringfireball.net/projects/markdown/dingus">Dingus</a>. All
+		of the above buttons work on a selected area of text.
+		  <ul>
+			 <li><em>Fill-Region</em> performs an emacs-style hard
+			 word-wrap on the selected text. (Makes the text more
+			 readable).</li>
+			 <li><em>Code Section</em> will indent the currently selected
+			 block by 4 spaces. This will get turned into a
+			 &lt;pre>&lt;code> section by Markdown.</li>
+			 <li><em>Block-quote</em> inserts a > character before each
+			 line of the selected text. This gets turned into a
+			 &lt;blockquote> element by Markdown.</li>
+		  </ul>
+				
+		</p>
+	 <button onclick="fill_region('text');">Fill-Region</button>
+	 <button onclick="markdown_indent_selection('text');">Code Section</button>
+	 <button onclick="markdown_quote_selection('text');">Block-Quote</button>
+	 <form action="" method="post">
+		<textarea id="text" name="text" rows="30" cols="100">
+Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.
+
+Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.
+
+The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.
+</textarea>
+	 </form>
+  </body>
+</html>
