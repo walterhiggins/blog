@@ -1,0 +1,10 @@
+body { 
+   max-width: 640px;
+   background: #eee;
+}
+p { 
+	line-height: 150%;
+}
+footer {
+	border-top: 1px solid;
+}
