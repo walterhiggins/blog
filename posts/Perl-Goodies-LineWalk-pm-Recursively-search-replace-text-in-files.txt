@@ -1,6 +1,9 @@
 # Perl Goodies ~ LineWalk.pm Recursively search/replace text in files.
+
 ## 2012/01/11 14:49
+
 I've been using this module for quick-fixes on xml files but this is just a line-based editor. 
+
     package LineWalk;
     use strict;
     our $version = '0.01';
@@ -132,4 +135,5 @@ I've been using this module for quick-fixes on xml files but this is just a line
     1;
     
 ## Categories
+
 Perl, Tools, Search, Files

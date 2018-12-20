@@ -1,14 +1,19 @@
 # Disingenuous Fools
+
 ## 2012/02/05 12:40
+
 > @beargrylls I watched your show on TV last night. For a 'born survivor' 
 > you seem hell-bent on putting yourself in harm's way. Have you 
 > considered staying at home with a nice cup of tea? Much better survival 
 > odds. 
 > [twitter/walter](http://twitter.com/#!/walter/status/166138738878054400)
+
 Question: What do Bear Grylls and Robert Scoble have in common?  
+
 Answer: They're both [Disingenuous][2] Fools whose schtick is appearing 
 to be less intelligent than they really are so they can appeal to a 
 broader audience. It's all about attention.
+
 I watched Bear Grylls' 25 best moments on TV last night. I knew I 
 shouldn't but I did. Grylls' schtick is that he's an intrepid explorer 
 willing to do anything to survive. The reality is he's a TV personality 
@@ -31,7 +36,9 @@ still others who see through Bear's disenginuity and are OK with that -
 the show is after all, entertaining. I'm not one of them. The 
 Disenginuity is an irritant. It struck me that Bear Grylls irritates me 
 in much the same way Robert Scoble does and for the same reason.
+
 ## Daddy, What's a Robert Scoble?
+
 Scoble was an early blogger and gets a disproportionate amount of 
 attention from other tech bloggers. A couple of years ago he was banned 
 from facebook for running some auto-friending bot (Facebook wouldn't let 
@@ -40,6 +47,7 @@ he went about bawling all over twitter and his blog saying he felt
 'Invisible'. This was one of the most followed tech bloggers bitching 
 about feeling 'Invisible'. That's pretty much all you need to know about 
 Robert Scoble. 
+
 Lately he has thrown himself (like Bear Grylls leaping from a bi-plane 
 into the arid lifeless Sahara) into Google's G+ social network. He says 
 he has [moved all his available time and blogging behaviour to 
@@ -57,8 +65,11 @@ some god-given insight. There's only so much eye-rolling these poor old
 eyeballs of mine can take. I bear no ill will towards the man, it's just 
 that - like Bear Grylls - I wish he'd stop pretending to drink his own 
 koolaid/piss and be straight up about his own game. 
+
 [1]: http://scobleizer.com/2011/09/11/the-game-of-all-games-content-and-context-why-mark-zuckerberg-marc-benioff-and-larry-page-are-carving-up-the-social-world/
 [2]: https://www.google.com/#hl=en&safe=off&q=disingenuous&tbs=dfn:1&tbo=u&sa=X
 [3]: http://en.wiktionary.org/wiki/Pauline_conversion
+
 ## Categories
+
 Television, Blogging, Attention

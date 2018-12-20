@@ -1,7 +1,10 @@
 # Dennis Ritchie
+
 ## 2011/10/13 14:59
+
 A great article about recently deceased Dennis Ritchie, inventor of Unix 
 and the C Programming language...
+
 > Unix was not even given a name for more than a year after it was first 
 > invented. So much of what they did was done, initially, for themselves 
 > alone, sometimes for sheer amusement, and yet it has had a lasting 
@@ -22,5 +25,6 @@ and the C Programming language...
 > nothing short of astonishing.
 >
 > --[Unix's founding fathers](http://www.economist.com/node/2724348)
+
 ## Categories
 Unix, Dennis Ritchie

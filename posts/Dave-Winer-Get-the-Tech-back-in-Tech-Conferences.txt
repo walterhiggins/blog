@@ -1,6 +1,9 @@
 # Dave Winer: Get the Tech back in Tech Conferences
+
+
 ## 2012/01/29 23:24
 Dave winer is on fire lately...
+
 > When everything flows through a few company's servers, Google, Apple, 
 > Facebook, Twitter, Microsoft, Amazon, and a few others -- it's much 
 > easier to shut things down. And it's also possible to shut things down 
@@ -16,7 +19,11 @@ Dave winer is on fire lately...
 > The mystique is the problem. The fact that you think you can't run a 
 > server is the problem.  
 > -- [Scripting News: Get the tech back in tech][1]
+
 ...It's time to Take Back The Web. 
+
 [1]: http://scripting.com/stories/2012/01/29/getTheTechBackInTech.html
+
 ## Categories
+
 Blogging, The Internet

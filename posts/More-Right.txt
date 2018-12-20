@@ -1,6 +1,9 @@
 # More Right?
+
 ## 2012/01/26 15:03
+
 John Gruber in jubilant form...
+
 > David Heinemeier Hansson, on the satisfaction of being a long-time Mac user:
 > 
 > > Macs were (and are) just better. Not just because they were better built 
@@ -18,6 +21,7 @@ John Gruber in jubilant form...
 > it's proof that you can succeed wildly by focusing first and foremost on 
 > making great products. That design does matter.  
 > -- [Daring Fireball][1]
+
 ... and a report on a recent explosion at a factory where iPads are made...
  
 > When workers in the cafeteria ran outside, they saw black smoke pouring 
@@ -37,11 +41,17 @@ John Gruber in jubilant form...
 > of other companies to build devices almost as quickly as they can be 
 > dreamed up.  
 > -- [Apple's iPad and the Human cost for workers in China][2]
+
 [1]: http://daringfireball.net/linked/2012/01/25/winning
 [2]: http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html
 [3]: http://37signals.com/svn/posts/3084-watching-apple-win-the-world
+
 It's not just Apple who use Chinese sweat shops, most big Technology firms use them. What I don't understand is the smugness and sense of moral superiority from the Apple faithful. I have 2 Apple Macbooks an iPad and an iPhone as well as two Thinkpads and a HTC smartphone, most of which were probably made in appalling working conditions in China. 
+
 I don't see it. 
+
 I don't see how Apple is [more right][3] than any other computer manufacturer using suppliers who exploit their workforce.
+
 ## Categories
+
 Apple, Technology, China, Exploitation

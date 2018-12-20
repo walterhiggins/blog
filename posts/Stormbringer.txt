@@ -1,5 +1,8 @@
 # Stormbringer & Cave Story
+## 2012/01/17 18:04
+
 ![Stormbringer on ZX Spectrum - How could you not love those cute 8-bit sprites?](images/stormbringer.gif "Stormbringer")
+
 I started playing Cave Story (more on this soon - maybe) last night and 
 was reminded of a game I played 25 years ago - [Stormbringer][4]. I spent 
 endless hours playing Stormbringer and never got very far in it but I 
@@ -12,7 +15,9 @@ obviously made a big impression on me because I still remember it to
 this day but only just recently recalled the name 'Stormbringer'. For 
 years I had remembered it as 'that game with the big-headed knight who 
 hops about'. 
+
 ![Cave Story](images/cavestory.gif "Cave Story")
+
 What prompted this recollection was [Cave Story][5]. I've been playing 
 the Demo version on the Wii. I first played it a few months ago. Back 
 then I didn't play it very long and didn't get very far. Last night I 
@@ -30,11 +35,14 @@ indie game developed by one guy, but if I like the game I'll buy it.
 Update: I played some more tonight and am still not convinced of its 
 brilliance. Having to go back to the very start when I get hit by the 
 white flash in the Egg Corridor is a major pain.
+
 [1]: http://www.metacritic.com/game/wii/cave-story/critic-reviews
 [2]: http://www.brainygamer.com/the_brainy_gamer/2010/03/the-cave-story-story.html
 [3]: http://www.brainygamer.com/the_brainy_gamer/2010/04/a-dark-cave.html
 [4]: http://www.worldofspectrum.org/infoseekid.cgi?id=0004919
 [5]: http://www.cavestory.org/
-## 2012/01/17 18:04
+
+
 ## Categories
+
 Gaming, Cave Story, Stormbringer, ZX Spectrum, Wii

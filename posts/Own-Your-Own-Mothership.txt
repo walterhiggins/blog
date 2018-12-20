@@ -1,11 +1,16 @@
 # Own Your Own Mothership
+
 ## 2012/02/10 15:38
+
 This is part 3 of a 3 part series on blogging & social networks. 
+
 Part One: [Bridging The Archipelago][pt1]. Part Two: [Postcards From The Islands][pt2]
+
 [pt1]: Bridging-the-Archipelago.html
 [pt2]: Postcards-From-The-Islands.html
 [pt3]: Own-Your-Own-Mothership.html
 ![MotherShip](images/mothership.jpg)
+
 > Companies that have planted their presence too deeply into the soils
 > of Facebook are going to realize they need to control their own
 > destiny, and move their focus and their core presence back into the
@@ -26,17 +31,23 @@ Part One: [Bridging The Archipelago][pt1]. Part Two: [Postcards From The Islands
 > in terms of traffic and virality, will come out on balance favoring
 > you. I wouldn't count on that.   
 > -- [Put Your Taproot Into the Independent Web][1]
+
 Sound advice. 
+
 It got me thinking. The advice is just as applicable to individuals
 too, but harder to follow because most Facebook and Twitter denizens
 don't have the resources or know-how available to a company, to establish their
 own presence outside the walled gardens.
+
 For those of us who do have that luxury, we have a duty to make it
 easier for people to own their own Mothership. To make owning and
 managing your own content and identity as easy as possible. 
+
 > I'm not going back to the open web. Why? The juice isn't there.  
 > [Robert Scoble][3]
+
 ## The Juice
+
 Why should ordinary Facebook & Twitter denizens care about owning
 their own content, identity and friends list? Because they are Chattel 
 [unwittingly being sold][8], every day *by each other* to companies and
@@ -47,6 +58,7 @@ something? That's the insidious all-pervading attention-grab. The
 'Juice' that Robert Scoble refers to is the fluid communication and
 interaction he sees on Google+ and Facebook, compared to his blog. The
 reality is you and your friends are the juice that's powering Facebook/Google+.
+
 > Morpheus: What is the Matrix? Control. The Matrix is a
 > computer-generated dream world built to keep us under control in order
 > to change a human being into this.  
@@ -55,6 +67,7 @@ reality is you and your friends are the juice that's powering Facebook/Google+.
 > Morpheus: I didn't say it would be easy, Neo. I just said it
 > would be the truth.  
 > -- [The Matrix][2]
+
 OK. That analogy might be a little OTT but you get [my meaning][9] :-)  
 Owning your own mothership means owning your own content, identity and
 list of friends. Facebook, Twitter, Google+ - These are all
@@ -66,7 +79,9 @@ is a step in the right direction but it's too bloody difficult even for programm
 never mind regular people. There are a couple of [noble-but-nerdy][6]
 efforts underway but it's going to take time and [not everyone wants to
 be saved][3]. 
+
 ## What can we Noble Nerds do?
+
 Asking your Facebook-bound Aunt to go cold-turkey on Facebook isn't
 going to work. It takes small steps to ween regular people off of
 Facebook/G+. Wait, that's not really what I meant either. Like John
@@ -78,8 +93,10 @@ you _can_ use Facebook without selling out your friends (Now *that*
 would be a good talk - "How to use Facebook without Selling out your
 Friends"). So here's a short list of things we can do to help our
 Facebook or G+ bound friends...
+
   1. Help them setup a [blog][5]. (Hosted on their own or your server is preferable)
   2. [Run an OpenID identity server for them][4] on your server.  
+
 It's a short list right now because the whole friends-list management thing?
 - That's difficult to do in a distributed way that makes sense to
 humans.  The other thorny problem is 'Comments'. Right now my comments
@@ -89,10 +106,15 @@ comments. It's another thing we haven't figured out yet. Owning
 your own content is a start, we need to get to work figuring out what
 the new citizen-owned Motherships will look like and how they will
 communicate with the millions of other Motherships.
+
 ## Related
+
 [Take back your life and own your own words | Tuppenceworth.ie blog][tupp]
+
 ## Categories
+
 Blogging, Facebook, The Matrix
+
 [1]: http://battellemedia.com/archives/2012/01/put-your-taproot-into-the-independent-web.php
 [2]: http://www.imdb.com/title/tt0133093/quotes?qt=qt0324328
 [3]: http://scobleizer.com/2012/02/04/its-too-late-for-dave-winer-and-john-battelle-to-save-the-common-web/

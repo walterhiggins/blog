@@ -1,9 +1,14 @@
 # Twitter Dos and Twitter Don'ts
+
 ## 2011/10/26 09:09
+
 Next month I will be 5 years on Twitter. I've more or less followed
 these rules to stay sane while using Twitter. Your mileage may vary. 
+
 ## Don't Follow
+
 As a rule of thumb I don't follow any of the following...
+
   1. Social Media Gurus  
      This should be self explanatory.
   2. People who moan about the presence of Social Media Gurus.  
@@ -33,7 +38,9 @@ As a rule of thumb I don't follow any of the following...
      stuff going on that can't be contained within 140 characters,
      chances are - if I'm already following you on twitter - I'm
      interested. So; cross-posting: Bad, auto-posting: Good.
+
 ## Filters
+
 I don't use them. Many of the people I follow love Soccer, Rugby, the
 Late Late Show, and X Factor, none of which interest me much. If I
 were a power user I'd probably use a dedicated Twitter client
@@ -41,7 +48,9 @@ application that had filters to block out football related tweets. I'm
 not a power user so I usually just do something other than watching
 twitter on Saturday afternoons. Doing something other than spending
 time on twitter has proven to be the most efficient filter.
+
 ## Numbers
+
 They're not important. After five years on twitter I follow just under
 100 people. I have at times followed up to 200 but that wasn't
 sustainable. Time is precious so I had to cut back. According to
@@ -49,20 +58,28 @@ twitter there are over 1,000 people following me. That would be
 flattering if it were true. The reality is many of those 1,000 are
 either bots, dormant or the kind of people who follow hoping for a
 follow-back.
+
 ## Power use
+
 Not for me. I would hate to be a power-user of twitter. I realise
 there are perfectly respectable power-use-cases (Journalism, Public
 Relations, Customer Service etc) but would hate to have to use
 twitter heavily as part of my job. I have of course used the
 twitter API and have developed [Twitter Applications][2] but that
 does not make me a power user.
+
 ## Trending Topics
+
 I am peripherally aware that there exists a subculture on twitter
 which slavishly follows trending topics. I haven't much more to
 say. 
+
 ## TLDNR;
+
 Twitter has much to recommend it if used sensibly.
+
 ## Categories
 Twitter
+
 [1]: http://twitter.com/SteveMartinToGo
 [2]: http://sxoop.com/twitter/

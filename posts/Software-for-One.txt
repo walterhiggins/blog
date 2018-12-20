@@ -1,6 +1,9 @@
 # Software for One
+
 ## 2011/10/09 07:09
+
 I was going to write a blog post just like this but James Hague saved me the effort...
+
 > I've used well-known blogging applications, and each time I've come away 
 > with the same bad taste, one that's caused by a combination of quirky 
 > rich formatting and having to edit text in a small window inside of a 
@@ -27,8 +30,10 @@ I was going to write a blog post just like this but James Hague saved me the eff
 > 
 > My response is simple: I did it because it was easy.  
 > [James Hague: Personal Programming][1]
+
 Some advice for James; It sounds like he isn't using [Markdown.pl][2] 
 but should.  
+
 James' blogging system sounds very like my own. Everything 
 is just files, no database involved. It always struck me as overkill to 
 use a database for blogging but I suppose once you add comments into the 
@@ -46,6 +51,7 @@ constructed (I've had too much fun blogging - my blogging output has
 gone way up since I setup this new blog so I must be doing something 
 right) but I've been curating [a list of colophon posts][6] I'll use for 
 reference when I do.
+
 James' blogging system is the perfect example of Software for One - a 
 personal itch that programmers scratch. Some such itches do eventually 
 lead to the creation of [Software for Millions (Wordpress)][7] but in 
@@ -56,6 +62,7 @@ difficult but because it was easy, fun and a learning experience - oh
 and also because I couldn't afford [Dev-Pac][8] at the time. So, 
 Software for One; A fun, easy, learning experience, there are worse ways 
 for Programmers to goof off.
+
 [1]: http://prog21.dadgum.com/77.html
 [2]: http://daringfireball.net/projects/markdown/
 [3]: http://www.blosxom.com/
@@ -64,5 +71,7 @@ for Programmers to goof off.
 [6]: http://pinboard.in/u:walterh/t:colophon
 [7]: http://wordpress.org
 [8]: http://www.worldofspectrum.org/infoseekid.cgi?id=0008091
+
 ## Categories
+
 Blogging, Programming, Perl, Colophon

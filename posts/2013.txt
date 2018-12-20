@@ -1,23 +1,41 @@
 # 2013 
+
 ## 2013/12/31 22:00
+
 It was a good year.
+
 ## ScriptCraft
+
 I started work on [ScriptCraft][sc] exactly one year ago. It's been a fun and rewarding side-project for sure. I got to give a talk about it at 3DCamp in Limerick in May and met some advocates face-to-face - The best thing? The people teaching ScriptCraft at CoderDojos up and down the country are younger programmers themselves. It was good to meet a lot of coderdojo mentors at 3DCamp. My one regret is having to cancel a ScriptCraft session at the CoderDojo Camp in November due to work travel.
+
 ## Work
+
 Work got even more interesting this year. I've started working on a project that involves [Node.js][node] and Angular[ang] - very cool new technologies. I've been programming for 26 years but Node.js proved that even an old dog like me can learn new tricks - Node's module system is superb. A model of simplicity and clarity. Every programming language should make modularising code so easy. I also got to visit San Francisco in November (A great time to visit if - like me - you live in a wet climate). The office in San Francisco (Oakland actually) have some really smart people - it's fun/interesting/challenging being one of less than a handful of off-site team members. I can't say too much about the nature of the project I'm working on obviously. Anecdotally I can say that Node is the new hotness at IBM.
+
 ## Holidays
+
 I took 5 weeks off in the middle of the year in what feels like the middle of my life. It was great - a real chance to unwind and reset. We spent of those weeks in the Algarve at a villa with our own pool and large landscaped garden. The kids and us loved every minute.
+
 ## Reading
+
 I've been doing a lot of reading this year. I devoured the Game of Thrones books after being initially sceptical about the TV show, then watching it all then reading the books back to back. The books are surprisingly readable (for such long books). I read a lot of SF too but think I've had my fill of Fantasy for the short term (even though I'm currently reading Ursula LeGuin's 'The Left Hand of Darkness'. You can see what I'm reading on [GoodReads][gr] - one of the 2 new social network sites I joined this year.
+
 ## Running
+
 This year I found religion and that religion is running. It started with a local jog in late July and quickly escalated into a full-blown passion. I've run a 5K and 2 10K races this year. I have a 10 mile race lined up for the end of January and then the big one - the Ballycotton 10 in early March. I can't wait. I've lost 3 stone in weight since May and am feeling healthier than I've ever been. I've also developed a bit of a running shoe and running top addiction. I now have 3 pairs of New Balance Minimus Road running shoes and more running tops than I can count. My [Strava profile][strava] tells the running story better than I can.
+
 ## Blogs
+
 I pretty much stopped reading them when Google shut down Reader. I stopped reading blogs and started reading books. I haven't missed them much. There's about a half-dozen blogs I occasionally check up on so I don't feel like I'm missing much. The kind of blogs I read most are those which update infrequently but when they do, have thoughtful things to say about programming and technology or gaming. 
+
 ## Everything else.
+
 Things are good. Very good. This year I've found myself knocking on wood many times. Long may it last. Hope you had a good 2013 too. Here's to 2014. Hope you have a good one.
+
 [gr]: https://www.goodreads.com/user/show/19549700-walter-higgins
 [node]: http://nodejs.org
 [sc]: http://github.com/walterhiggins/ScriptCraft/
 [strava]: http://www.strava.com/athletes/2838472
+
 ## Categories
 2013, Running, Reading

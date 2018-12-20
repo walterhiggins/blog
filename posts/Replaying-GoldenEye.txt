@@ -1,5 +1,7 @@
 # Replaying GoldenEye
+
 ## 2012/01/16 16:13
+
 A couple of days ago I began replaying GoldenEye on the Wii. I had so 
 much fun [playing this last year][1] I decided to give it another go. One 
 thing that really bugs me 2nd time around are the controls. The Wii 
@@ -16,9 +18,13 @@ off screen. I've since tweaked the in-game controller settings to make
 the wii remote more sensitive. It still feels clumsier and less 
 responsive than a keyboard-mouse combination from more than 10 years 
 ago. 
+
 Parts of GoldenEye are still great fun but I'm disappointed it isn't as 
 good as I remembered it. After more than 4 years with the Wii, I'm 
 growing increasingly skeptical of the value of motion controllers.
+
 [1]: posterous-goldeneye-007-for-the-wii-what-a-game.html
+
 ## Categories
+
 Gaming, Wii, GoldenEye
