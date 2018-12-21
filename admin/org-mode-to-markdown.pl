@@ -98,7 +98,7 @@ sub do_bandcamp
 $1
 </iframe>
 BANDCAMP
-;
+	;
 	return 1;
     }
     return 0;
@@ -118,10 +118,10 @@ sub do_youtube
       <p><a href="http://youtu.be/$2">$1</a></p>
 </iframe>
 IFRAME
-;
-		return 1;
-	}
-	return 0;
+	;
+	return 1;
+    }
+    return 0;
 }
 #
 # convert sound links to <audio> elements
@@ -136,7 +136,7 @@ sub do_sounds
 <a href="$2">Download $1</a>
 </audio>
 AUDIO
-;
+	;
 	return 1;
     }
     return 0;
@@ -186,7 +186,7 @@ sub tweetquote
 {
     my ($json,$avatar) = @_;
     my $id = $json->{'id_str'};
-	my $partial = "cache/tweet-$id.html";
+    my $partial = "cache/tweet-$id.html";
     file $partial  => ["cache/tweet_$id.json","templates/tweet.html"], sub {
 	my $encoded = encode_entities($json->{'text'});
 	my $expanded = Sxoop::PTParser::tweetexpandurls($json,$encoded);

@@ -13,7 +13,7 @@ my $query = new CGI();
 
 my @targets = $query->param('targets') ;
 @targets = ("all") if (!@targets);
-our @posts = glob("../posts/*.txt");
+our @posts = glob("../posts/*.md");
 our $CACHE_DIR = "cache";
 
 #
@@ -240,7 +240,7 @@ sub blogsort
 sub path_md
 {
     my ($md) = @_; 
-    $md =~ s/\.\.\/posts\/(.*)\.txt$/$CACHE_DIR\/$1.markdown.html/g;
+    $md =~ s/\.\.\/posts\/(.*)\.md$/$CACHE_DIR\/$1.markdown.html/g;
     $md =~ s/[\(\) ]//g;
     return $md;
 }
