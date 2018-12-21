@@ -1,1 +1,48 @@
-# App.Net## 2012/08/13 19:31Fred Oliviera on App.Net...> I&#146;m a fan of products that ask for cold hard cash and become sustainable > businesses. Products that cost money live by simple rules: if they make > people unhappy, people leave, they make less money and eventually fail. > If they make people happy however, others join, money comes in, > developers are rewarded.>  > So I&#146;m paying for app.net. It doesn&#146;t mean I&#146;ll leave Twitter - that > wouldn&#146;t make sense unless things take a change for the worse. It does, > however, mean that I believe a Twitter alternative makes sense. It makes > sense that new features being added to that platform matter to me and > not brands who want my &#147;eyeballs&#148;. I&#146;m not much of a &#147;Viva la > revolucion&#148; kind of guy, but users being in charge is refreshing. And > app.net being fully funded means about 10.000 other people agree with that.>  >   > -- [helloform][1]Mic Wright ...> FOR ALL ITS PHILOSOPHICAL POSTURING ABOUT TWITTER BEING A BIG MEANIE AND > THE NATURE OF OPENNESS, WHAT APP.NET IS REALLY ABOUT IS THAT GEEKS ARE > GETTING UNCOMFORTABLE WITH NORMAL PEOPLE ENCROACHING ON THEIR SPACE. > THAT $50 FEE IS THE EQUIVALENT OF A MASSIVE STONE WALL AROUND A GATED > COMMUNITY. JUST AS LITERATURE FANS GRUMBLE AND GRIPE ABOUT THE SUCCESS > OF 50 SHADES OF GREY, APP.NET BACKERS ARE IMPLICITLY KICKING OUT AT > JUSTIN BIEBER TRENDING AND THE PREPONDERANCE OF PAINFUL HASHTAG GAMES. > BUT THEY CAN&#146;T ADMIT THEIR ELITISM BECAUSE THAT&#146;S ONE OF THE 21ST > CENTURY&#146;S BAD WORDS.  > -- [SOCIAL MEDIA&#146;S &#145;REVERSE GENTRIFICATION&#146; &#150; MIC WRIGHT &#150; THE KERNEL][3][3]: HTTP://WWW.KERNELMAG.COM/COMMENT/COLUMN/3086/SOCIAL-MEDIAS-REVERSE-GENTRIFICATION/I signed up for App.Net. While I don't think another social network is the answer, I took a punt on app.net. Who knows - I might eventually get around to tweaking [Twitter Mosaic][2] to support app.net if the APIs are compatible. [Exile](http://youtu.be/1BAqTsdWUXY)[1]: http://blog.helloform.com/[2]: http://sxoop.com/twitter## CategoriesThe Social Media Exile Essay
+# App.Net
+
+## 2012/08/13 19:31
+
+Fred Oliviera on App.Net...
+
+> I&#146;m a fan of products that ask for cold hard cash and become sustainable 
+> businesses. Products that cost money live by simple rules: if they make 
+> people unhappy, people leave, they make less money and eventually fail. 
+> If they make people happy however, others join, money comes in, 
+> developers are rewarded.
+>  
+> So I&#146;m paying for app.net. It doesn&#146;t mean I&#146;ll leave Twitter - that 
+> wouldn&#146;t make sense unless things take a change for the worse. It does, 
+> however, mean that I believe a Twitter alternative makes sense. It makes 
+> sense that new features being added to that platform matter to me and 
+> not brands who want my &#147;eyeballs&#148;. I&#146;m not much of a &#147;Viva la 
+> revolucion&#148; kind of guy, but users being in charge is refreshing. And 
+> app.net being fully funded means about 10.000 other people agree with that.
+>  
+>   
+> -- [helloform][1]
+
+Mic Wright ...
+
+> FOR ALL ITS PHILOSOPHICAL POSTURING ABOUT TWITTER BEING A BIG MEANIE AND 
+> THE NATURE OF OPENNESS, WHAT APP.NET IS REALLY ABOUT IS THAT GEEKS ARE 
+> GETTING UNCOMFORTABLE WITH NORMAL PEOPLE ENCROACHING ON THEIR SPACE. 
+> THAT $50 FEE IS THE EQUIVALENT OF A MASSIVE STONE WALL AROUND A GATED 
+> COMMUNITY. JUST AS LITERATURE FANS GRUMBLE AND GRIPE ABOUT THE SUCCESS 
+> OF 50 SHADES OF GREY, APP.NET BACKERS ARE IMPLICITLY KICKING OUT AT 
+> JUSTIN BIEBER TRENDING AND THE PREPONDERANCE OF PAINFUL HASHTAG GAMES. 
+> BUT THEY CAN&#146;T ADMIT THEIR ELITISM BECAUSE THAT&#146;S ONE OF THE 21ST 
+> CENTURY&#146;S BAD WORDS.  
+> -- [SOCIAL MEDIA&#146;S &#145;REVERSE GENTRIFICATION&#146; &#150; MIC WRIGHT &#150; THE KERNEL][3]
+
+[3]: HTTP://WWW.KERNELMAG.COM/COMMENT/COLUMN/3086/SOCIAL-MEDIAS-REVERSE-GENTRIFICATION/
+
+I signed up for App.Net. While I don't think another social network is the 
+answer, I took a punt on app.net. Who knows - I might eventually get 
+around to tweaking [Twitter Mosaic][2] to support app.net if the APIs 
+are compatible. 
+
+[Exile](http://youtu.be/1BAqTsdWUXY)
+[1]: http://blog.helloform.com/
+[2]: http://sxoop.com/twitter
+## Categories
+The Social Media Exile Essay
