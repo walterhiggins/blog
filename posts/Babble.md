@@ -3,7 +3,7 @@
 
 > Kids learn everything quickly compared to adults, and are almost always 
 > willing to make mistakes at a much higher rate than adults are. Language 
-> starts with "babbling" &#151; I think it's just as important to "babble" in 
+> starts with "babbling" - I think it's just as important to "babble" in 
 > anything you're trying to learn.
 > 
 > [https://twitter.com/starsandrobots/status/998431767047487488][tw-babble]

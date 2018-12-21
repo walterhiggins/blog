@@ -9,7 +9,7 @@
 > that many occupations require a level of desensitivity, which allows us 
 > to effectively perform a task in the face of difficult feelings evoked 
 > by it.  
-> -- [Joan Ganz Cooney Center - Improving Our Aim: A Psychotherapist&#146;s Take On Video Games & Violence][1]
+> -- [Joan Ganz Cooney Center - Improving Our Aim: A Psychotherapist's Take On Video Games & Violence][1]
 
 [1]: http://www.joanganzcooneycenter.org/2013/02/20/improving-our-aim-a-psychotherapists-take-on-video-games-violence/
 ## Categories

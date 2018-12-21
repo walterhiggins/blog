@@ -4,18 +4,18 @@
 
 Fred Oliviera on App.Net...
 
-> I&#146;m a fan of products that ask for cold hard cash and become sustainable 
+> I'm a fan of products that ask for cold hard cash and become sustainable 
 > businesses. Products that cost money live by simple rules: if they make 
 > people unhappy, people leave, they make less money and eventually fail. 
 > If they make people happy however, others join, money comes in, 
 > developers are rewarded.
 >  
-> So I&#146;m paying for app.net. It doesn&#146;t mean I&#146;ll leave Twitter - that 
-> wouldn&#146;t make sense unless things take a change for the worse. It does, 
+> So I'm paying for app.net. It doesn't mean I'll leave Twitter - that 
+> wouldn't make sense unless things take a change for the worse. It does, 
 > however, mean that I believe a Twitter alternative makes sense. It makes 
 > sense that new features being added to that platform matter to me and 
-> not brands who want my &#147;eyeballs&#148;. I&#146;m not much of a &#147;Viva la 
-> revolucion&#148; kind of guy, but users being in charge is refreshing. And 
+> not brands who want my "eyeballs". I'm not much of a "Viva la 
+> revolucion" kind of guy, but users being in charge is refreshing. And 
 > app.net being fully funded means about 10.000 other people agree with that.
 >  
 >   
@@ -30,9 +30,9 @@ Mic Wright ...
 > COMMUNITY. JUST AS LITERATURE FANS GRUMBLE AND GRIPE ABOUT THE SUCCESS 
 > OF 50 SHADES OF GREY, APP.NET BACKERS ARE IMPLICITLY KICKING OUT AT 
 > JUSTIN BIEBER TRENDING AND THE PREPONDERANCE OF PAINFUL HASHTAG GAMES. 
-> BUT THEY CAN&#146;T ADMIT THEIR ELITISM BECAUSE THAT&#146;S ONE OF THE 21ST 
-> CENTURY&#146;S BAD WORDS.  
-> -- [SOCIAL MEDIA&#146;S &#145;REVERSE GENTRIFICATION&#146; &#150; MIC WRIGHT &#150; THE KERNEL][3]
+> BUT THEY CAN'T ADMIT THEIR ELITISM BECAUSE THAT'S ONE OF THE 21ST 
+> CENTURY'S BAD WORDS.  
+> -- [SOCIAL MEDIA'S 'REVERSE GENTRIFICATION' - MIC WRIGHT - THE KERNEL][3]
 
 [3]: HTTP://WWW.KERNELMAG.COM/COMMENT/COLUMN/3086/SOCIAL-MEDIAS-REVERSE-GENTRIFICATION/
 

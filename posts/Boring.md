@@ -5,7 +5,7 @@ Some recent reading...
 
 
 > There is perhaps one good argument for using Docker. It is hidden by the 
-> many bad arguments for using Docker. I&#146;m going to try to explain why so 
+> many bad arguments for using Docker. I'm going to try to explain why so 
 > much Docker rhetoric is stupid, and then look at what reason might be good.
 > 
 > [Docker is the dangerous gamble which we will regret][docker-danger]
@@ -13,8 +13,8 @@ Some recent reading...
 Sometimes boring is better...
 
 > What do Docker, CoreOS, and ECS have in common? All three are relatively 
-> new technologies. Some might even call them &#147;bleeding edge&#148; (I won&#146;t). 
-> In any case, all three are the opposite of boring&#8202;&#151;&#8202;they&#146;re rather hip 
+> new technologies. Some might even call them "bleeding edge" (I won't). 
+> In any case, all three are the opposite of boring - they're rather hip 
 > and shiny. The point of this article is that, when it comes to 
 > technology, sometimes boring is actually better.
 > 
@@ -33,7 +33,7 @@ Sometimes boring is better...
 
 Ship Small Diffs
 
-> I&#146;ll make the case for one practice that works very well operationally: 
+> I'll make the case for one practice that works very well operationally: 
 > deploying small units of code to production on a regular basis. I think 
 > that your deploys should be measured in dozens of lines of code rather 
 > than hundreds.

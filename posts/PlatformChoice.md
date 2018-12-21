@@ -44,7 +44,7 @@ saviors of my life. So be it, until victory is Platform Choice Vendor's and ther
 enemy, but peace!
 
 ## Related
-[McSweeney&#146;s Internet Tendency: Buying This Thing Will Make Me Happy.][happy]
+[McSweeney's Internet Tendency: Buying This Thing Will Make Me Happy.][happy]
 
 ## Categories
 Platforms

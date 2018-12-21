@@ -4,7 +4,7 @@
 It looks like the humanities people have found out about Minecraft...
 
 > This workshop will investigate the nature of mind as illustrated by 
-> Minecraft, its different versions, and content. We&#146;ll take a look at how 
+> Minecraft, its different versions, and content. We'll take a look at how 
 > this game creates a mediated environment for relationship, gives us 
 > memes to live by, and points the way toward deeper mindfulness and well-being.  
 > -- [Mindful Minecraft][1]

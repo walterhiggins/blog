@@ -6,7 +6,7 @@
 > not driven on by some demon whom one can neither resist nor understand. 
 > For all one knows that demon is simply the same instinct that makes a 
 > baby squall for attention. And yet it is also true that one can write 
-> nothing readable unless one constantly struggles to efface one&#146;s own 
+> nothing readable unless one constantly struggles to efface one's own 
 > personality.   
 > -- [Collected Essays, by George Orwell : part47][1]
 

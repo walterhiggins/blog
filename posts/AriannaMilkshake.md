@@ -21,8 +21,8 @@ their name out there.
 > site, kicked up plenty. 
 >  
 > He went on something of a rant about it, writing that The Huffington 
-> Post&#146;s overly aggressive approach to aggregation at the time &#151; in which 
-> content is rewritten, links are buried, and very little is added &#151; 
+> Post's overly aggressive approach to aggregation at the time - in which 
+> content is rewritten, links are buried, and very little is added - 
 > yielded all of 57 page views for the original item.  
 >  -- [Guidelines Proposed for Content Aggregation Online - NYTimes.com][1]
 
@@ -35,7 +35,7 @@ the source. This is akin to a Nerd who decides that donning a dickie-bow
 will ward off school-yard bullies. Ha! Arianna Huffington scoffs at your 
 silly unicode characters and your earnest code of conduct. 
 
-> This is what The Curator's Code is &#150; a suggested system for honoring the 
+> This is what The Curator's Code is - a suggested system for honoring the 
 > creative and intellectual labor of information discovery by making 
 > attribution consistent and codified, celebrating authors and creators, 
 > and also respecting those who discover and amplify their work.  
@@ -43,16 +43,16 @@ silly unicode characters and your earnest code of conduct.
 
 This proposal has justifiably been much derided far and wide in blogs...
 
-> First, let&#146;s just get clear on the terminology here: &#147;Curation&#148; is an 
+> First, let's just get clear on the terminology here: "Curation" is an 
 > act performed by people with PhDs in art history; the business in which 
-> we&#146;re all engaged when we&#146;re tossing links around on the internet is 
-> simple &#147;sharing.&#148; And some of us are very good at that! (At least if we 
-> accept &#147;very good&#148; to mean &#147;has a large audience.&#148;)  
+> we're all engaged when we're tossing links around on the internet is 
+> simple "sharing." And some of us are very good at that! (At least if we 
+> accept "very good" to mean "has a large audience.")  
 > -- [Matt Langer &middot; Stop Calling it Curation][3]
 
 ... and on Twitter ...
 
-> Good morning, Curators! Y&#146;all got funny cat pictures for me? I got my &#8620; ready!  
+> Good morning, Curators! Y'all got funny cat pictures for me? I got my &#8620; ready!  
 > -- [Twitter / @Mike_FTW](https://twitter.com/#!/Mike_FTW/status/179938756403527680)
 
 > From now on this unicode character indicates an underutilized liberal 
@@ -71,8 +71,8 @@ Marco Arment says we're solving the wrong problem...
 > The proper place for ethics and codes is in ensuring that a reasonable 
 > number of people go to the source instead of just reading your rehash.
 >  
-> Codifying &#147;via&#148; links with confusing symbols is solving the wrong problem.  
-> -- [I&#146;m not a &#147;curator&#148; &#150; Marco.org][5]
+> Codifying "via" links with confusing symbols is solving the wrong problem.  
+> -- [I'm not a "curator" - Marco.org][5]
 
 ... I tend to agree. The problem is Scumbag Aggregators 
 (Scumbaggregators?) like the Huffington Post and no code of conduct or 

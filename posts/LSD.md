@@ -18,11 +18,11 @@
 > sessions, the study volunteers, some of the best and brightest in their 
 > fields, sounded like tripped-out neopagans at a backwoods gathering. 
 > Their minds, they said, had blossomed and contracted with the universe. 
-> They&#146;d beheld irregular but clean geometrical patterns glistening into 
+> They'd beheld irregular but clean geometrical patterns glistening into 
 > infinity, felt a rightness before solutions manifested, and even 
 > shapeshifted into relevant formulas, concepts, and raw materials.
 >  
-> But here&#146;s the clincher. 
+> But here's the clincher. 
 > After their 5HT2A neural receptors simmered down, they remained firm: 
 > LSD absolutely had helped them solve their complex, seemingly 
 > intractable problems. And the establishment agreed. The 26 men unleashed 

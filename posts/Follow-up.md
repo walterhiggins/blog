@@ -1,7 +1,7 @@
 # Follow-up
 ## 2013/02/08 16:47
 
-> What&#146;s notable is that he also invested the follow-up effort to ensure 
+> What's notable is that he also invested the follow-up effort to ensure 
 > the software was engineered well-enough to work on other computers and 
 > on multiple operating systems, could be understood and maintained by 
 > others, was adequately documented, licensed to be useful, and so on. All 

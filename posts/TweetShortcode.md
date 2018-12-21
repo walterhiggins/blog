@@ -22,7 +22,7 @@ paste into your blog...
     <blockquote class="twitter-tweet tw-align-center">
     <p>Is there a word for feeling like you should have known something much 
     earlier? Because I get that feeling all the time working with Unix.</p>
-    &#151; Walter Higgins (@walter) <a 
+    - Walter Higgins (@walter) <a 
     href="https://twitter.com/walter/status/177066714582880260" 
     data-datetime="2012-03-06T16:22:49+00:00">March 6, 2012</a>
     </blockquote>
@@ -33,7 +33,7 @@ paste into your blog...
 <blockquote class="twitter-tweet tw-align-center">
 <p>Is there a word for feeling like you should have known something much 
 earlier? Because I get that feeling all the time working with Unix.</p>
-&#151; Walter Higgins (@walter) <a href="https://twitter.com/walter/status/177066714582880260" data-datetime="2012-03-06T16:22:49+00:00">March 6, 2012</a>
+- Walter Higgins (@walter) <a href="https://twitter.com/walter/status/177066714582880260" data-datetime="2012-03-06T16:22:49+00:00">March 6, 2012</a>
 </blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -71,7 +71,7 @@ available on SoundCloud, YouTube etc.
 
 ## Related 
 
-[Bake, Don&#146;t Fry (Aaron Swartz: The Weblog)][bdf]
+[Bake, Don't Fry (Aaron Swartz: The Weblog)][bdf]
 
 ## Categories
 Twitter

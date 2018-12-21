@@ -2,20 +2,20 @@
 
 ## 2012/07/08 08:44
 
-> Eichenwald&#146;s conversations reveal that a management system known as 
-> &#147;stack ranking&#148;&#151;a program that forces every unit to declare a certain 
+> Eichenwald's conversations reveal that a management system known as 
+> "stack ranking"-a program that forces every unit to declare a certain 
 > percentage of employees as top performers, good performers, average, and 
-> poor&#151;effectively crippled Microsoft&#146;s ability to innovate. &#147;Every 
-> current and former Microsoft employee I interviewed&#151;every one&#151;cited 
+> poor-effectively crippled Microsoft's ability to innovate. "Every 
+> current and former Microsoft employee I interviewed-every one-cited 
 > stack ranking as the most destructive process inside of Microsoft, 
-> something that drove out untold numbers of employees,&#148; Eichenwald 
-> writes. &#147;If you were on a team of 10 people, you walked in the first day 
+> something that drove out untold numbers of employees," Eichenwald 
+> writes. "If you were on a team of 10 people, you walked in the first day 
 > knowing that, no matter how good everyone was, 2 people were going to 
 > get a great review, 7 were going to get mediocre reviews, and 1 was 
-> going to get a terrible review,&#148; says a former software developer. &#147;It 
+> going to get a terrible review," says a former software developer. "It 
 > leads to employees focusing on competing with each other rather than 
-> competing with other companies.&#148;  
-> -- [Microsoft&#146;s Downfall | Vanity Fair][1]
+> competing with other companies."  
+> -- [Microsoft's Downfall | Vanity Fair][1]
 
 IBM also use this system. It is every bit as bad as it sounds.
 

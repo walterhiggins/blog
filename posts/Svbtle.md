@@ -6,8 +6,8 @@ Dustin Curtis on his new hand-rolled blogging system...
 > A couple of months ago, after being irritated by the complexity and 
 > uninspiring nature of most blogging platforms, I decided to build my own 
 > solution to power dcurt.is. It is codenamed Svbtle. The first 
-> interface I built just contained a simple list of articles with a &#147;new 
-> post&#148; form, like almost every other blogging management system ever 
+> interface I built just contained a simple list of articles with a "new 
+> post" form, like almost every other blogging management system ever 
 > created, but it has slowly evolved into something that has hugely 
 > improved the quality of my thinking and writing.  
 > -- [Codename: Svbtle by Dustin Curtis][1]

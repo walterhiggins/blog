@@ -5,7 +5,7 @@
 Prompted by a tweet from local [BackboneJS expert James Sugrue][bjs], I 
 suggested a meetup of a few local Javascript people in Cork.
 
-<blockquote class="twitter-tweet" lang="en"><p>One thing I'd really like for 2014 is to get Cork tech events buzzing. You can help by listing your events with <a href="https://twitter.com/SDigestCork">@SDigestCork</a></p>&#151; James Sugrue (@sugrue) <a href="https://twitter.com/sugrue/statuses/418403354809597952">January 1, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>One thing I'd really like for 2014 is to get Cork tech events buzzing. You can help by listing your events with <a href="https://twitter.com/SDigestCork">@SDigestCork</a></p>- James Sugrue (@sugrue) <a href="https://twitter.com/sugrue/statuses/418403354809597952">January 1, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ... so BeerJS Cork is happening next Thursday 16th January in the 

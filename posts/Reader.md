@@ -19,12 +19,12 @@ I reluctantly moved to Reader only when it was apparent that BlogLines was well 
 
 ... I'm wondering - what next? If I was to be true to the spirit of web self-sufficiency I should self-host. My first thought on hearing that Google Reader was shutting down was "How hard could it be to write your own RSS aggregrator?". Madness - I know - but ...
 
-> We&#146;re finally likely to see substantial innovation and competition in 
+> We're finally likely to see substantial innovation and competition in 
 > RSS desktop apps and sync platforms for the first time in almost a decade.
 >  
 > It may suck in the interim before great alternatives mature and become 
 > widely supported, but in the long run, trust me: this is excellent news.  
-> -- [Google Reader shutting down July 1 &#150; Marco.org][2]
+> -- [Google Reader shutting down July 1 - Marco.org][2]
 
 [1]: http://corte.si/posts/socialmedia/rip-google-reader.html
 [2]: http://www.marco.org/2013/03/13/google-reader-sunset
