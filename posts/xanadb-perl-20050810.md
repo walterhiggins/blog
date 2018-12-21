@@ -1,5 +1,7 @@
 # Not invented here
+
 ## 2005/08/10 05:00
+
 I suffer from a peculiar strain of egomania which occasionaly leads me 
 to reinventing wheels. Said wheels usually aren't quite round and on 
 mature reflection are often - how shall I say - naive, but the whole 
@@ -7,6 +9,7 @@ point of such exercises is in the joy of programming and getting a
 better understanding of how things work. My most recent hacking has been 
 a make-like tool in Perl. Why would I want to write such a thing ? - 
 because anything is better than [Ant][] (see footnote).
+
 I have enormous admiration for [make][], a tool
 written by Richard Stallman who also wrote Emacs.  Make, like Emacs,
 is one of those programs which current software development couldn't
@@ -22,12 +25,14 @@ when a single file gets updated, the entire project doesn't need to be
 rebuilt - only those components which depend on the changed file. The
 core principle is laziness - the computer shouldn't do more than it
 absolutely has to.
+
 I know there are already plenty of perl based make tools (Cons looks
 impressive) but there is one problem common to all of them - I didn't
 write them.  Where's the fun in using someone else's well documented,
 reliable and mature code when you can write your own ? Obviously this
 point-of-view isn't a luxury I can afford in my day job, only when
 hacking in my spare time.
+
 I'm not going to make any bold claims about what I've done except to
 say that it works surprisingly well although the syntax can be tricky
 (even for me and I wrote it). I would never contemplate foisting this
@@ -56,13 +61,17 @@ up (I know I know - I should use wordpress or some other standard
 blogging tool, but didn't you read the title ?). Know only the 3 files
 (main index, topic index and post page) get updated and the update
 happens in no time at all.  
-*2005/08/11* WOW talk about coincidence. Martin Fowler has just posted
+
+## Update 2005/08/11
+
+WOW talk about coincidence. Martin Fowler has just posted
 an excellent article on using rake - a ruby based make tool. It's main
 strength he says is that it's an internal DSL (domain specific
 language) which means it combines the declarative form of traditional
 build tools like ANT and make, but can lean on the procedural power of
 ruby when it has to. Based on Fowler's trivially simple example here
 is a makefile using my own Aardvark perl module...
+
     use strict;
     use Aardvark;
     my $proj = new Aardvark();
@@ -95,15 +104,25 @@ is a makefile using my own Aardvark perl module...
                 "rm codegen compile dataload"
                );
     $proj->make(@ARGV);
+
 [Fowler's article on Rake][rake] is well worth reading if you're even 
 slightly interested in how software gets built.
-footnote: 2011/10/06 What can I say - I was young and full of vinegar 
+
+## footnote: 2011/10/06
+
+What can I say - I was young and full of vinegar 
 and piss. Ant has stood the test of time while my own half-baked 
 Aardvark module was rapidly replaced by [TinyMake][]. I use Ant in my 
 day-job today.
+
 [make]: http://www.gnu.org/software/make/make.html
+
 [Ant]: http://ant.apache.org/
+
 [TinyMake]: http://search.cpan.org/~walterh/TinyMake-0.06/TinyMake.pm
+
 [rake]: http://martinfowler.com/articles/rake.html
+
 ## Categories
+
 Perl, Ruby, Rake, Make
