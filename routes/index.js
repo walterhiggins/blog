@@ -3,12 +3,14 @@ var router = express.Router();
 let postsFn = require("../posts");
 let marked = require("marked");
 /* GET home page. */
+router.use(function(req, res, next) {
+  req.posts = postsFn();
+  next();
+});
 router.get("/", function(req, res) {
-  let posts = postsFn();
-  res.render("index", { posts, marked });
+  res.render("index", { posts: req.posts, marked });
 });
 router.get("/posts.js", function(req, res) {
-  let posts = postsFn();
-  res.send(`let posts = ${JSON.stringify(posts)}`);
+  res.send(`let posts = ${JSON.stringify(req.posts)}`);
 });
 module.exports = router;
