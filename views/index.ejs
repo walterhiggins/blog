@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="stylesheets/style2011a.css" />
+    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
+    <title>Walter Higgins: [% print $page->{title}; %]</title>
+  </head>
+  <body>
+    <header>
+      <h1>Walter Higgins</h1>
+      <h2>Tinkering with Software & the Web</h2>
+    </header>
+    <div class="nav">
+      <a href="archive.html">Archives</a> // 
+      <a href="atom.xml">Subscribe</a>
+    </div>
+
+    <% Object.keys(posts.byDate).sort().reverse().slice(0,20).forEach( date => {  %>
+      <div class="post"><%- marked(posts.byDate[date].contents) %></div>
+    <% }) %>
+
+    <div class="nav">
+      <a href="archive.html">Archives</a> // 
+      <a href="atom.xml">Subscribe</a>
+    </div>
+  </body>
+  <script type="text/javascript">
+    window.onload = function() { 
+    var h2s = document.getElementsByTagName('h2');
+    for (var i = 0;i < h2s.length; i++){
+	if (h2s[i].className == 'timestamp'){
+	  h2s[i].innerHTML = new Date(h2s[i].innerHTML).toDateString();
+        }
+    }
+}
+</script>
+</html>
