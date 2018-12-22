@@ -1,5 +1,5 @@
 # Facebook Drinks Your Milkshake
-# 2012/03/15 08:05
+## 2012/03/15 08:05
 
 > How did facebook.com/nike become a more desirable property than nike.com?  
 > -- [Twitter / @walter](https://twitter.com/walter/status/179915413117878272)

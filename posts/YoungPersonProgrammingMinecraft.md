@@ -1,6 +1,6 @@
 # The Young Person's Guide to Programming in Minecraft
 
-## Update 2014/01/30 
+## 2014/01/30 12:00
 
 The [Young Person's Guide to Programming in Minecraft has moved][ypgpm]. 
 
