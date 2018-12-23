@@ -1,5 +1,5 @@
 var express = require("express");
-var https = require("https");
+var http = require("http");
 var path = require("path");
 var favicon = require("static-favicon");
 var logger = require("morgan")("dev");
@@ -55,14 +55,6 @@ app.use(function(err, req, res, next) {
   });
 });
 
-https
-  .createServer(
-    {
-      key: fs.readFileSync("server.key"),
-      cert: fs.readFileSync("server.cert")
-    },
-    app
-  )
-  .listen(3000, function() {
-    console.info("Express Server listening on port 3000");
-  });
+http.createServer(app).listen(3000, function() {
+  console.info("Express Server listening on port 3000");
+});
